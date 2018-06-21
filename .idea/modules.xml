@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WorldCupLove.iml" filepath="$PROJECT_DIR$/.idea/modules/WorldCupLove.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WorldCupLove_main.iml" filepath="$PROJECT_DIR$/.idea/modules/WorldCupLove_main.iml" group="WorldCupLove" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WorldCupLove_test.iml" filepath="$PROJECT_DIR$/.idea/modules/WorldCupLove_test.iml" group="WorldCupLove" />
+    </modules>
+  </component>
+</project>
